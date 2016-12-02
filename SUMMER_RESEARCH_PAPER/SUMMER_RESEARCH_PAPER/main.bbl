@@ -1,0 +1,32 @@
+\begin{thebibliography}{1}
+
+\bibitem{BIRDID:Berg2013}
+T.~Berg and P.~Belhumeur.
+\newblock How do you tell a blackbird from a crow?
+\newblock In {\em Computer Vision (ICCV), 2013 IEEE International Conference
+  on}, pages 9--16, Dec 2013.
+
+\bibitem{BIRDID:Chatfield2014}
+K.~Chatfield, K.~Simonyan, A.~Vedaldi, and A.~Zisserman.
+\newblock Return of the devil in the details: Delving deep into convolutional
+  nets.
+\newblock In {\em British Machine Vision Conference}, 2014.
+
+\bibitem{BIRDID:duchi2011adaptive}
+J.~Duchi, E.~Hazan, and Y.~Singer.
+\newblock Adaptive subgradient methods for online learning and stochastic
+  optimization.
+\newblock {\em The Journal of Machine Learning Research}, 12:2121--2159, 2011.
+
+\bibitem{BIRDID:fredembach2006}
+C.~Fredembach and G.~Finlayson.
+\newblock Simple shadow removal.
+\newblock In {\em Pattern Recognition, 2006. ICPR 2006. 18th International
+  Conference on}, volume~1, pages 832--835. IEEE, 2006.
+
+\bibitem{BIRDID:Lecun2015}
+Y.~LeCun, Y.~Bengio, and G.~Hinton.
+\newblock Deep learning.
+\newblock {\em Nature}, 521:436 -- 444, 28 May 2015.
+
+\end{thebibliography}
